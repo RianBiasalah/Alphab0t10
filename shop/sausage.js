@@ -14,7 +14,9 @@ CANDY SAUSAGE
 1.368C	Rp 265,000.00		
 2.118C	Rp 418,000.00		
 3.548C	Rp 682,000.00		
-7.096C	Rp 1.305,000.00		
+7.096C	Rp 1.305,000.00
+
+        [ C L O S E ]		
 			
 Untuk pay / pembayan silahkan ketik ${prefix}pay
 `

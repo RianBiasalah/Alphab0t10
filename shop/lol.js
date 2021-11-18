@@ -13,7 +13,9 @@ WC LOLM
 1.375WC	Rp 155,000.00			
 2.400WC	Rp 250,000.00			
 4,000.00WC	Rp 395,000.00			
-8.150WC	Rp 785,000.00			
+8.150WC	Rp 785,000.00
+
+        [ C L O S E ]			
 				
 Untuk pay / pembayan silahkan ketik ${prefix}pay
 `

@@ -18,7 +18,9 @@ VOUCHER AOV
 2.390VC	 Rp 485,000.00		
 4.800VC	 Rp 970,000.00		
 24.050VC   Rp 4.845,000.00		
-48.200VC   Rp 9.685,000.00		
+48.200VC   Rp 9.685,000.00
+
+           [ C L O S E ]		
 
 Untuk pay / pembayan silahkan ketik ${prefix}pay
 `

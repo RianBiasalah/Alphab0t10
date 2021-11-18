@@ -13,7 +13,9 @@ VALORANT POINT
 1.375VP	155,000.00		
 2.400VP	250,000.00		
 4,000.00VP	395,000.00		
-8.150VP	785,000.00		
+8.150VP	785,000.00
+
+        [ C L O S E ]		
 			
 Untuk pay / pembayan silahkan ketik ${prefix}pay
 `

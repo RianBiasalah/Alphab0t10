@@ -16,6 +16,8 @@ LIST
 3.300CP	Rp 480,000.00
 7.128CP	Rp 950,000.00
 
+        [ C L O S E ]
+
 Untuk pay / pembayan silahkan ketik ${prefix}pay
 `
 	}

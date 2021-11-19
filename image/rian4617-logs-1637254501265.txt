@@ -1,0 +1,10 @@
+2021-11-18T16:52:42.566778+00:00 app[worker.1]: npm ERR! Alphabot@10.0.1 start: `node zeeone`
+2021-11-18T16:52:42.566849+00:00 app[worker.1]: npm ERR! Exit status 1
+2021-11-18T16:52:42.566947+00:00 app[worker.1]: npm ERR! 
+2021-11-18T16:52:42.567015+00:00 app[worker.1]: npm ERR! Failed at the Alphabot@10.0.1 start script.
+2021-11-18T16:52:42.567066+00:00 app[worker.1]: npm ERR! This is probably not a problem with npm. There is likely additional logging output above.
+2021-11-18T16:52:42.573589+00:00 app[worker.1]: 
+2021-11-18T16:52:42.573666+00:00 app[worker.1]: npm ERR! A complete log of this run can be found in:
+2021-11-18T16:52:42.573692+00:00 app[worker.1]: npm ERR!     /app/.npm/_logs/2021-11-18T16_52_42_567Z-debug.log
+2021-11-18T16:52:42.805313+00:00 heroku[worker.1]: Process exited with status 1
+2021-11-18T16:52:42.809005+00:00 heroku[worker.1]: State changed from up to crashed
